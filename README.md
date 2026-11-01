@@ -3,9 +3,9 @@
 ## 📋 Descripción
 Conjunto de scripts Bash desarrollados para automatizar tareas básicas de administración en servidores Linux. Este proyecto resuelve la necesidad del área de TI de una empresa mediana de optimizar procesos manuales como revisar el uso de disco, organizar archivos y generar reportes simples.
 
-## 👥 Integrantes
+## 👥 Integrantes 
+- Quijandria Chavez Fabrizio Farid
 - Huaman Laime, Brayan Jack 
-- Quijandria Chavez Fabrizio Farid 
 
 ## 📁 Scripts Incluidos
 
